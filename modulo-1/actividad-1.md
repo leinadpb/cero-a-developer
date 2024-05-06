@@ -12,7 +12,7 @@ _Link de descarga_: (https://nodejs.org/en/download)[https://nodejs.org/en/downl
 
 - ###### Descargar e instalar GIT SCM
 _Link de descarga para **MACOS**_: (https://git-scm.com/download/mac)[https://git-scm.com/download/mac]
-_Link de descarga para **WINDOWS**_: (https://git-scm.com/download/mac)[https://git-scm.com/download/mac]
+_Link de descarga para **WINDOWS**_: (https://git-scm.com/download/mac)[https://git-scm.com/download/windows]
 
 **Instrucciones**:
 1. Haz click en descargar
